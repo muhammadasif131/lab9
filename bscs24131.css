@@ -1,0 +1,26 @@
+.first-div
+{
+    width: 500px;
+    height: 70px;
+    background-color: lightblue; 
+    border-width: 3px;
+    border-style: solid;
+    border-color: darkblue; 
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
+.normal-para
+{
+    color: green;
+}
+#fav-para
+{
+    color: rgb(55, 7, 138);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: yellow;
+    background-color: rgb(88, 88, 88);
+}
